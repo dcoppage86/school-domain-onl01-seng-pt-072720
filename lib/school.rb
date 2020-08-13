@@ -10,4 +10,6 @@ class School
     roster[grade] ||= []
     roster[grade] << student
   end
+  
+  def grade 
 end
