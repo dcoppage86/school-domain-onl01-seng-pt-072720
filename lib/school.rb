@@ -12,5 +12,6 @@ class School
   end
   
   def sort
-    nu_hash {}
+    nu_hash = {}
+    
 end
