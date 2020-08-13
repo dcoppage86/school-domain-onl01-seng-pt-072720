@@ -13,5 +13,4 @@ class School
   
   def sort
     nu_hash = {}
-    
-end
+    roster.each.do []
