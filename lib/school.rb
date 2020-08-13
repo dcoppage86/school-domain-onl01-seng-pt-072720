@@ -7,8 +7,8 @@ class School
   end
   
   def add_student(student, level)
-    roster[level] ||= []
-    roster[level] << student
+    roster[level] ||= [a,b]
+    roster[level] <<  student
   end
   
   def sort
