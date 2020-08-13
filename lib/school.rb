@@ -6,11 +6,6 @@ class School
     @roster = {}
   end
   
-  def add_student(student, level)
-    roster[level] ||= [a,b]
-    roster[level] << student
-  end
-  
   def sort
     nu_hash = {}
     roster.each.do |a,b|
