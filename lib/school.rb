@@ -1,3 +1,2 @@
-class School(roster)
-  roster => {}
+class School
 end
